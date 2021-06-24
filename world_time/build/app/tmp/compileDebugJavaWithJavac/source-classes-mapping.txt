@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/shantanu/me/world_time/MainActivity.java
+ com.shantanu.me.world_time.MainActivity
+com/shantanu/me/world_time/BuildConfig.java
+ com.shantanu.me.world_time.BuildConfig
